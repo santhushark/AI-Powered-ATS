@@ -1,0 +1,26 @@
+Shreesha N Murthy is a Machine Learning Engineer with extensive experience in AI and software development. He holds a Master's degree in Data Science from Worcester Polytechnic Institute (GPA: 4.0/4.0) and a Bachelor's in Computer Science from VT University.
+
+Skills Highlights:
+- Programming Languages: Python, Java, Scala, JavaScript, TypeScript, R
+- ML/AI Frameworks: TensorFlow, PyTorch, Hadoop, Spark, Kafka
+- Machine Learning: Neural Networks (CNN, LSTM, Transformers), SVM, Random Forests, XGBoost
+- MLOps: Airflow, TensorflowX, Docker, AWS, GCP
+- Databases: SQL, MongoDB, Cassandra
+
+Professional Experience:
+Currently working at Cushion.ai (San Francisco) as a Machine Learning Engineer, focusing on credit-risk assessment and consumer bill detection. Previously served at RazorThink Technologies (India) as an AI Engineer, where he achieved significant results including:
+- Character Recognition solution with 92% accuracy
+- Resume parsing and ranking system
+- Doc2Vec model with 94% sentence accuracy
+- CNN prediction explanation system
+
+Research and Publications:
+- Conducted research on Differential Learning using Neural Network Pruning, achieving 85% accuracy on Fashion-MNIST
+- Published two papers:
+  1. "DeepSEAS: Ailment Sensing using Coupled LSTM Autoencoders" (IEEE BigData 2020)
+  2. "Deep Anomaly Detection methods to passively detect COVID-19 from Audio" (ICDH 2020)
+
+Education:
+His academic background includes relevant coursework in Statistics, Big Data Analytics, Machine Learning, Deep Learning, and Business Intelligence.
+
+This combination of technical skills, research experience, and practical implementation makes him a well-rounded professional in the machine learning and AI domain, with particular expertise in deep learning and big data technologies.

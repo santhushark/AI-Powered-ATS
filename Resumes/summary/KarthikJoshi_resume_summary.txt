@@ -1,0 +1,43 @@
+Karthik Joshi is a Senior Software Engineer with over 6 years of experience in IT, specializing in distributed systems, microservices architecture, and cloud development, with particular expertise in Fintech and eCommerce domains.
+
+Skills Highlight:
+- Programming: NodeJS, TypeScript, Spring Boot, Java
+- Frameworks: NestJS, TypeORM
+- Cloud & Infrastructure: AWS, Docker, Kubernetes, Terraform
+- Architecture: Microservices, Distributed Systems, Design Patterns
+- API Development: REST API, GraphQL
+- Message Broking: Apache Kafka
+- Version Control: Git
+- Methodologies: Agile, OOPS
+
+Education:
+Bachelor of Engineering in Information Science (2013-2017)
+NIE Institute of Technology, Mysore
+
+Professional Experience:
+Currently working at StockX as a Senior Software Engineer, where he:
+- Implemented PSP integration for global expansion
+- Led monolith to microservice decomposition project
+- Established real-time data observability systems
+- Developed split payments functionality
+
+Previously at WeRize (2019-2021), he:
+- Designed complete credit underwriting pipeline
+- Built generic credit rule engine reducing bureau costs by 50%
+- Managed AWS cloud infrastructure
+- Created reusable component libraries
+
+At High Peak Software (2017-2019), he:
+- Developed RESTful web services for payroll systems
+- Mentored junior engineers
+- Demonstrated strong problem-solving abilities
+
+Key Achievements:
+- Increased payment approval rates by 5-10%
+- Reduced failure rates by 10-15%
+- Decreased bureau costs by 50%
+- Successfully led infrastructure modernization projects
+- Demonstrated expertise in system design and architecture
+- Proven track record in mentoring junior developers
+
+The profile showcases a progressive career path with increasing responsibilities and technical expertise in modern software development practices and technologies.

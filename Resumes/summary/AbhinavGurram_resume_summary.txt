@@ -1,0 +1,32 @@
+Abhinav Gurram is a Full-Stack Software Developer with extensive educational background and professional experience in software development.
+
+Education:
+- Master of Science in Computer Science from University of Cincinnati (GPA: 3.95)
+- Bachelor of Science in Computer Science from GITAM University (GPA: 3.8)
+Key coursework includes Advanced Algorithms, Data Warehousing, Database Management, Operating Systems, and Software Engineering.
+
+Professional Experience:
+Currently working at The MathWorks as a Full-Stack Software Developer since April 2016. Key responsibilities include:
+- Developing a 5-star rated GUIDE app migration application
+- Creating UI widgets and interactive tutorials
+- Implementing JavaScript-based features
+- Developing RESTful web-services and in-house tracking tools
+
+Previously worked as an IT Intern at Anthem INC, developing Java-based web applications and configuring web services.
+
+Technical Projects:
+1. Pattern-based job-tracking (2018-Present)
+2. Multi-domain clusters in Interrelated Databases (2015-2016)
+3. University of Cincinnati Global Relations Portal (2014-2015)
+
+Technical Skills:
+- Programming Languages: JavaScript, Java, C, C++
+- Web Technologies: HTML5, CSS3, jQuery, Dojo Toolkit, RESTful
+- Frameworks & Tools: Bootstrap, Hibernate, JSP
+- Databases: MySQL
+- Servers: Glassfish, Tomcat
+- Development Tools: Perforce, JIRA
+- Testing: QUnit, FuncUnit
+- Other: MATLAB
+
+The profile demonstrates strong technical capabilities in full-stack development, with expertise in both front-end and back-end technologies. His academic excellence, combined with hands-on experience in developing various applications and web services, shows a well-rounded professional with strong problem-solving abilities and technical acumen.

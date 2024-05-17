@@ -1,0 +1,28 @@
+Karthik Kaiplody is a Machine Learning Engineer pursuing a Master's in Data Science at Illinois Institute of Technology. He holds a Post Graduate Diploma in ML and AI from IIIT Bangalore and a Bachelor's in Electronics and Communication.
+
+Skills Highlights:
+- Technical: AWS, Python, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, spaCy, Flask, Git, SQL
+- Core Competencies: MLOps, Data Pipeline Development, NLP, Deep Learning, Computer Vision, CI/CD
+- Functional: Teamwork, Client Management, Interpersonal Communication
+
+Professional Experience:
+Currently working as Data Science Engineer R&D Intern at CCC Intelligent Solutions, focusing on CI/CD pipeline development for AI products and AWS migration. Previously served as Research Assistant at Illinois Institute of Technology's SCS Laboratory, developing machine learning pipelines and nutritional data tools.
+
+At Acuity Knowledge Partners, as Machine Learning Engineer III, he:
+- Implemented transformer-based models using MLOps practices
+- Developed serverless architecture using AWS Lambda
+- Automated data engineering pipeline using AWS Step-functions
+
+During his tenure at Mindtree Ltd as Senior Engineer, he worked on ETL operations and BERT/ELMO-based embeddings for NLP classifiers.
+
+Education:
+- Master's in Data Science (Illinois Institute of Technology, Expected 2024)
+- PG Diploma in ML and AI (IIIT Bangalore, 2021)
+- BE in Electronics and Communication (VTU, 2016)
+
+Notable Achievements:
+- Reduced resource costs by 30% through microservice architecture implementation
+- Minimized model turnaround time from a week to hours using MLOps pipeline
+- Experience across multiple domains including Networking, FinTech, and Insurance
+
+His expertise combines strong technical skills in machine learning with practical experience in implementing enterprise-level solutions using cloud technologies and modern development practices.

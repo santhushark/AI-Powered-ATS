@@ -1,0 +1,30 @@
+Prathyush S Parvatharaju is an AI Engineer currently serving as a Journeyman Fellow at U.S. Army CCDC Army Research Laboratory. With over 5 years of experience in AI pipeline development, he specializes in black-box model explanations and active explainers for CNNs.
+
+Education:
+- M.S. in Data Science from Worcester Polytechnic Institute (GPA: 4.0)
+- B.E. in Electronics and Communication from VT University (GPA: 3.7)
+
+Technical Skills:
+- Programming Languages: Python, Javascript, Java, C++, C, R, HTML
+- Machine Learning: SVM, RandomForests, Neural Networks, Reinforcement Learning
+- MLOps: Docker, Kubernetes, Airflow, TensorflowX
+- Frameworks: PyTorch, TensorFlow, Keras, Flask, OpenCV
+- Big Data: Spark, CUDA, Hadoop, Kafka
+- Databases: MySQL, MongoDB, Neo4J, Redis
+
+Professional Experience:
+At U.S. Army Research Laboratory (2020-Present):
+- Led and trained a 20-member team in ML research
+- Architected Context-Aware Shared Agile Platform
+
+At Razorthink Technologies (2015-2019):
+- Developed distributed modeling library
+- Achieved 97% accuracy with scaled CRNNs
+- Led LSTM model development for customer churn prediction
+- Designed multi-stage CNN for time-series data
+
+Publications:
+1. "Learning Saliency Maps to Explain Deep Time Series Classifiers" (CIKM '21)
+2. "Differential Learning using Neural Network Pruning" (CORR'21)
+
+His expertise spans across various domains of AI/ML, including deep learning, distributed systems, and MLOps. His work demonstrates strong leadership capabilities combined with technical excellence in developing and implementing cutting-edge AI solutions. His perfect academic record and research publications showcase his commitment to continuous learning and contribution to the field.

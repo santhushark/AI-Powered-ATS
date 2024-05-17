@@ -1,0 +1,28 @@
+Lakshmi Himaja Amrutham is a computer science professional with a Master's degree from Illinois Institute of Technology (GPA: 3.33/4.0) and a Bachelor's degree from Anna University (GPA: 3.7/4.0).
+
+Education & Relevant Coursework:
+- Master's coursework includes Data Mining, Machine Learning, Cloud Computing, Big Data Technologies, and Mobile Application Development
+- Bachelor's coursework includes Data Structures and Algorithms, Object-Oriented Analysis and Design, and Database Management System
+
+Technical Skills:
+- Programming Languages: C, C++, C#, Java, Python
+- Databases: Oracle MySQL, SQL, AWS DynamoDB
+- Web Development: HTML, CSS, JavaScript, .Net, XML, XSLT Schema
+- Tools: Jenkins, Git, Visual Studio Code, PyCharm, Eclipse, BMC Remedy, TIBCO BW, Jira, Splunk
+- Cloud Technologies: AWS S3, AWS EMR, Chameleon Cloud
+- Libraries/Technologies: Linux, Pandas, Numpy, Seaborn, BeautifulSoup, Hadoop
+
+Professional Experience:
+Currently working as a Pricing Data Science Intern at Camping World, Chicago, where she:
+- Analyzes large datasets (up to 10 million rows)
+- Performs Exploratory Data Analysis
+- Develops Machine Learning models for price prediction
+
+Previously worked as a Senior Systems Engineer at Infosys (2017-2020), where she:
+- Implemented JavaScript in OT Integration Center
+- Managed deployment scripts
+- Designed BW processes for EMS/JMS servers
+
+Project Experience includes working with NoSQL databases and web development projects like 'Course Demy' and 'Food Orders'.
+
+The combination of her educational background, technical skills, and professional experience demonstrates her expertise in data science, software development, and system engineering, with a strong focus on machine learning and data analysis.
