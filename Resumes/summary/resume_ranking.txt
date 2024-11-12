@@ -1,0 +1,37 @@
+I'll rank the resume summaries based on the job description requirements, considering experience with LLMs, ML/DL libraries, scalable systems, and specific technical knowledge. I'll score them out of 100, weighing different aspects of the requirements.
+
+Rankings:
+
+1. Karthik Kaiplody: 95/100
+Key matches:
+- Direct experience with transformers and LLM implementations
+- Extensive work with required libraries (TensorFlow, PyTorch, Scikit-learn, Keras)
+- Proven scalability experience (microservice architecture, MLOps pipeline)
+- Relevant cloud experience with AWS
+- Recent and directly applicable experience
+
+2. Shreesha N Murthy: 90/100
+Key matches:
+- Strong ML/DL library experience (TensorFlow, PyTorch)
+- Experience with neural networks and transformers
+- Scalable systems experience with big data technologies
+- Relevant research and implementation experience
+- Good mix of theoretical and practical knowledge
+
+3. Prathyush S Parvatharaju: 85/100
+Key matches:
+- Strong technical background in ML/DL frameworks
+- Experience with PyTorch, TensorFlow, Keras
+- Scalable systems experience (distributed modeling)
+- Deep expertise in neural networks
+- Good research background
+
+4. Lakshmi Himaja: 65/100
+Key matches:
+- Basic ML/Python experience
+- Some data analysis experience
+- Limited direct experience with required libraries
+- No mention of LLM or transformer experience
+- Less focused on the specific requirements of the role
+
+The top three candidates show strong alignment with the job requirements, with Karthik having a slight edge due to his direct experience with transformers and LLM implementations. Lakshmi's profile, while strong in general software development, shows less direct alignment with the specific ML/DL requirements of the role.
